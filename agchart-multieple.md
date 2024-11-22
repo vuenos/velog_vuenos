@@ -32,3 +32,9 @@ return (
     <AgCharts options={chartOptions} />
 );
 ```
+
+### 개발요건
+- n개의 차트를 보여주는 대쉬보드가 있음
+- 차트영역별로 chart type 과 data 를 선택가능
+- 영역별 차트 설정 후 저장 (DB 관리? 상태관리?)
+
